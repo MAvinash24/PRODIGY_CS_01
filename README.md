@@ -39,14 +39,19 @@ pip install tk
 1. Clone the repository:
    ```bash
    git clone https://github.com/MAvinash24/PRODIGY_CS_01.git
-
+   ```
+   
 2. Navigate to project directory:
    ```bash
    cd PRODIGY_CS_01
-
+   ```
+   
 3. Run the code:
    ```bash
    python caesar_cipher.py
+   ```
+   
+---
 
 
 ### Screenshot of GUI
