@@ -1,4 +1,5 @@
 # PRODIGY_CS_01
+
 ## Caesar Cipher Tool
 
 A simple interactive graphical user interface (GUI) application for encrypting and decrypting text using the Caesar Cipher technique. Built with Python and Tkinter, this tool is user-friendly and supports both encryption and decryption modes.
@@ -27,6 +28,12 @@ The Caesar Cipher shifts each letter in the input text by a specified number of 
 ## Requirements
 - Python 3.x
 - Tkinter (comes pre-installed with Python on most systems)
+  
+To install the required libraries, you can use the following command:
+
+```bash
+pip install tk
+```
 
 ---
 
