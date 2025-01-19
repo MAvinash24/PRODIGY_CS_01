@@ -58,7 +58,6 @@ root.title("Caesar Cipher")
 root.geometry("550x500")
 root.resizable(False, False)
 
-# Set a better font for clarity
 default_font = font.Font(family="Helvetica", size=12)
 header_font = font.Font(family="Helvetica", size=16, weight="bold")
 
