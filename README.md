@@ -1,12 +1,12 @@
 # PRODIGY_CS_01
 ## Caesar Cipher Tool
 
-A simple yet interactive graphical user interface (GUI) application for encrypting and decrypting text using the Caesar Cipher technique. Built with Python and Tkinter, this tool is user-friendly and supports both encryption and decryption modes.
+A simple interactive graphical user interface (GUI) application for encrypting and decrypting text using the Caesar Cipher technique. Built with Python and Tkinter, this tool is user-friendly and supports both encryption and decryption modes.
 
 ---
 
 ### Features
-- **Encryption and Decryption**: Process text in either mode with a user-specified shift value.
+- **Encryption and Decryption**: Process of text in either mode with a user-specified shift value.
 - **Intuitive GUI**: A clear and responsive interface for better user experience.
 - **Error Handling**: Provides feedback for invalid inputs like non-integer shift values or empty text.
 - **Result Display**: Displays the processed output in a dedicated text box.
