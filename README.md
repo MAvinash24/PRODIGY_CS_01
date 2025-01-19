@@ -22,7 +22,7 @@ The Caesar Cipher shifts each letter in the input text by a specified number of 
 
 ---
 
-## Requirements
+### Requirements
 - Python 3.x
 - Tkinter (comes pre-installed with Python on most systems)
   
@@ -34,7 +34,7 @@ pip install tk
 
 ---
 
-## Installation
+### Installation
 
 1. Clone the repository:
    ```bash
