@@ -15,9 +15,6 @@ A simple interactive graphical user interface (GUI) application for encrypting a
 
 ---
 
-
----
-
 ### How It Works
 The Caesar Cipher shifts each letter in the input text by a specified number of places in the alphabet. 
 - In **encryption mode**, the text is shifted forward.
@@ -38,6 +35,7 @@ pip install tk
 ---
 
 ## Installation
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/MAvinash24/PRODIGY_CS_01.git
@@ -50,7 +48,7 @@ pip install tk
    ```bash
    python caesar_cipher.py
 
+
 ### Screenshot of GUI
 
 ![Caesar_Cipher GUI](https://github.com/user-attachments/assets/4bc0705d-3e9a-4d59-9028-acc5750d4e75)
-
